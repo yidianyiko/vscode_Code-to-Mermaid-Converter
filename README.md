@@ -1,5 +1,5 @@
 # Code to Mermaid Converter
-** 暂未提交至 vscode 插件商店，可以下载 release 包或者本地编译使用**
+已提交至 vscode 插件商店，搜索 `openai-mermaid-converter` 并安装即可使用。
 ## 简介
 
 Code to Mermaid Converter 是一个 Visual Studio Code 扩展，它可以将选中的代码转换对应的**流程图**、**时序图**等实用图表，让你可以快速可视化代码逻辑。
